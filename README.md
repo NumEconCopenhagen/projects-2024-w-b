@@ -1,9 +1,7 @@
-# \[Group name\]
+# \[Projects 2025 - WB\]
 
 **Group members:**
-- A
-- B
-- C
+- William Bay
 
 This repository contains  
 1. Inaugural project. 
